@@ -1,0 +1,641 @@
+
+    2017-08-26 15:32:36    
+    -------------------
+Test1.txt is empty. It will not be tested for plagiarism.
+
+
+Plagiarism for files Test2.txt Test3.txt:
+Bag of words:    61.79965904315088
+String Matching: 1.6216216216216217
+Finger Printing: 26.053639846743295
+
+Plagiarism for files Test2.txt Test4.txt:
+Bag of words:    50.02605116625459
+String Matching: 1.3297872340425532
+Finger Printing: 3.088803088803089
+
+Plagiarism for files Test2.txt Test5.txt:
+Bag of words:    70.26948114515605
+String Matching: 1.5189873417721518
+Finger Printing: 21.980676328502415
+
+Plagiarism for files Test2.txt Test6.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test2.txt Test7.txt:
+Bag of words:    50.02605116625459
+String Matching: 1.3297872340425532
+Finger Printing: 3.088803088803089
+
+Plagiarism for files Test3.txt Test4.txt:
+Bag of words:    49.820680832998306
+String Matching: 1.3186813186813187
+Finger Printing: 5.590062111801243
+
+Plagiarism for files Test3.txt Test5.txt:
+Bag of words:    66.5628294864277
+String Matching: 1.1913626209977661
+Finger Printing: 21.59329140461216
+
+Plagiarism for files Test3.txt Test6.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test3.txt Test7.txt:
+Bag of words:    49.820680832998306
+String Matching: 1.3186813186813187
+Finger Printing: 5.590062111801243
+
+Plagiarism for files Test4.txt Test5.txt:
+Bag of words:    50.956255810043196
+String Matching: 2.9268292682926833
+Finger Printing: 9.813084112149532
+
+Plagiarism for files Test4.txt Test6.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test4.txt Test7.txt:
+Bag of words:    100.00000000000003
+String Matching: 100.0
+Finger Printing: 100.0
+
+Plagiarism for files Test5.txt Test6.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test5.txt Test7.txt:
+Bag of words:    50.956255810043196
+String Matching: 2.9268292682926833
+Finger Printing: 9.813084112149532
+
+Plagiarism for files Test6.txt Test7.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+************************************************************
+    2017-08-26 15:42:52    
+    -------------------
+Test1.txt is empty. It will not be tested for plagiarism.
+
+
+Plagiarism for files Test2.txt Test3.txt:
+Bag of words:    61.79965904315088
+String Matching: 1.6216216216216217
+Finger Printing: 26.053639846743295
+
+Plagiarism for files Test2.txt Test4.txt:
+Bag of words:    50.02605116625459
+String Matching: 1.3297872340425532
+Finger Printing: 3.088803088803089
+
+Plagiarism for files Test2.txt Test5.txt:
+Bag of words:    70.26948114515605
+String Matching: 1.5189873417721518
+Finger Printing: 21.980676328502415
+
+Plagiarism for files Test2.txt Test6.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test2.txt Test7.txt:
+Bag of words:    50.02605116625459
+String Matching: 1.3297872340425532
+Finger Printing: 3.088803088803089
+
+Plagiarism for files Test3.txt Test4.txt:
+Bag of words:    49.820680832998306
+String Matching: 1.3186813186813187
+Finger Printing: 5.590062111801243
+
+Plagiarism for files Test3.txt Test5.txt:
+Bag of words:    66.5628294864277
+String Matching: 1.1913626209977661
+Finger Printing: 21.59329140461216
+
+Plagiarism for files Test3.txt Test6.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test3.txt Test7.txt:
+Bag of words:    49.820680832998306
+String Matching: 1.3186813186813187
+Finger Printing: 5.590062111801243
+
+Plagiarism for files Test4.txt Test5.txt:
+Bag of words:    50.956255810043196
+String Matching: 2.9268292682926833
+Finger Printing: 9.813084112149532
+
+Plagiarism for files Test4.txt Test6.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test4.txt Test7.txt:
+Bag of words:    100.00000000000003
+String Matching: 100.0
+Finger Printing: 100.0
+
+Plagiarism for files Test5.txt Test6.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test5.txt Test7.txt:
+Bag of words:    50.956255810043196
+String Matching: 2.9268292682926833
+Finger Printing: 9.813084112149532
+
+Plagiarism for files Test6.txt Test7.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+************************************************************
+    2017-08-26 17:26:22    
+    -------------------
+Test1.txt is empty. It will not be tested for plagiarism.
+
+
+Plagiarism for files Test2.txt Test3.txt:
+Bag of words:    61.79965904315088
+String Matching: 1.6216216216216217
+Finger Printing: 22.60536398467433
+
+Plagiarism for files Test2.txt Test4.txt:
+Bag of words:    50.02605116625459
+String Matching: 1.3297872340425532
+Finger Printing: 1.1583011583011582
+
+Plagiarism for files Test2.txt Test5.txt:
+Bag of words:    70.26948114515605
+String Matching: 1.5189873417721518
+Finger Printing: 21.014492753623188
+
+Plagiarism for files Test2.txt Test6.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test2.txt Test7.txt:
+Bag of words:    50.02605116625459
+String Matching: 1.3297872340425532
+Finger Printing: 1.1583011583011582
+
+Plagiarism for files Test3.txt Test4.txt:
+Bag of words:    49.820680832998306
+String Matching: 1.3186813186813187
+Finger Printing: 4.037267080745342
+
+Plagiarism for files Test3.txt Test5.txt:
+Bag of words:    66.5628294864277
+String Matching: 1.1913626209977661
+Finger Printing: 20.335429769392032
+
+Plagiarism for files Test3.txt Test6.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test3.txt Test7.txt:
+Bag of words:    49.820680832998306
+String Matching: 1.3186813186813187
+Finger Printing: 4.037267080745342
+
+Plagiarism for files Test4.txt Test5.txt:
+Bag of words:    50.956255810043196
+String Matching: 2.9268292682926833
+Finger Printing: 6.074766355140187
+
+Plagiarism for files Test4.txt Test6.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test4.txt Test7.txt:
+Bag of words:    100.00000000000003
+String Matching: 100.0
+Finger Printing: 100.0
+
+Plagiarism for files Test5.txt Test6.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test5.txt Test7.txt:
+Bag of words:    50.956255810043196
+String Matching: 2.9268292682926833
+Finger Printing: 6.074766355140187
+
+Plagiarism for files Test6.txt Test7.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+************************************************************
+    2017-08-26 17:28:48    
+    -------------------
+Test1.txt is empty. It will not be tested for plagiarism.
+
+
+Plagiarism for files Test2.txt Test3.txt:
+Bag of words:    61.79965904315088
+String Matching: 1.6216216216216217
+Finger Printing: 22.60536398467433
+
+Plagiarism for files Test2.txt Test4.txt:
+Bag of words:    50.02605116625459
+String Matching: 1.3297872340425532
+Finger Printing: 1.1583011583011582
+
+Plagiarism for files Test2.txt Test5.txt:
+Bag of words:    70.26948114515605
+String Matching: 1.5189873417721518
+Finger Printing: 21.014492753623188
+
+Plagiarism for files Test2.txt Test6.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test2.txt Test7.txt:
+Bag of words:    50.02605116625459
+String Matching: 1.3297872340425532
+Finger Printing: 1.1583011583011582
+
+Plagiarism for files Test3.txt Test4.txt:
+Bag of words:    49.820680832998306
+String Matching: 1.3186813186813187
+Finger Printing: 4.037267080745342
+
+Plagiarism for files Test3.txt Test5.txt:
+Bag of words:    66.5628294864277
+String Matching: 1.1913626209977661
+Finger Printing: 20.335429769392032
+
+Plagiarism for files Test3.txt Test6.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test3.txt Test7.txt:
+Bag of words:    49.820680832998306
+String Matching: 1.3186813186813187
+Finger Printing: 4.037267080745342
+
+Plagiarism for files Test4.txt Test5.txt:
+Bag of words:    50.956255810043196
+String Matching: 2.9268292682926833
+Finger Printing: 6.074766355140187
+
+Plagiarism for files Test4.txt Test6.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test4.txt Test7.txt:
+Bag of words:    100.00000000000003
+String Matching: 100.0
+Finger Printing: 100.0
+
+Plagiarism for files Test5.txt Test6.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test5.txt Test7.txt:
+Bag of words:    50.956255810043196
+String Matching: 2.9268292682926833
+Finger Printing: 6.074766355140187
+
+Plagiarism for files Test6.txt Test7.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+************************************************************
+    2017-08-26 17:30:13    
+    -------------------
+Test1.txt is empty. It will not be tested for plagiarism.
+
+
+Plagiarism for files Test2.txt Test3.txt:
+Bag of words:    61.79965904315088
+String Matching: 1.6216216216216217
+Finger Printing: 22.60536398467433
+
+Plagiarism for files Test2.txt Test4.txt:
+Bag of words:    73.52297952221224
+String Matching: 1.1555127587867116
+Finger Printing: 37.735849056603776
+
+Plagiarism for files Test2.txt Test5.txt:
+Bag of words:    70.26948114515605
+String Matching: 1.5189873417721518
+Finger Printing: 21.014492753623188
+
+Plagiarism for files Test2.txt Test6.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test2.txt Test7.txt:
+Bag of words:    73.52297952221224
+String Matching: 1.1555127587867116
+Finger Printing: 37.735849056603776
+
+Plagiarism for files Test3.txt Test4.txt:
+Bag of words:    66.33710845109644
+String Matching: 1.1633109619686801
+Finger Printing: 44.59627329192546
+
+Plagiarism for files Test3.txt Test5.txt:
+Bag of words:    66.5628294864277
+String Matching: 1.1913626209977661
+Finger Printing: 20.335429769392032
+
+Plagiarism for files Test3.txt Test6.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test3.txt Test7.txt:
+Bag of words:    66.33710845109644
+String Matching: 1.1633109619686801
+Finger Printing: 44.59627329192546
+
+Plagiarism for files Test4.txt Test5.txt:
+Bag of words:    88.69098038148954
+String Matching: 54.02061855670103
+Finger Printing: 118.07747489239597
+
+Plagiarism for files Test4.txt Test6.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test4.txt Test7.txt:
+Bag of words:    100.00000000000003
+String Matching: 100.0
+Finger Printing: 214.34146341463415
+
+Plagiarism for files Test5.txt Test6.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test5.txt Test7.txt:
+Bag of words:    88.69098038148954
+String Matching: 54.02061855670103
+Finger Printing: 118.07747489239597
+
+Plagiarism for files Test6.txt Test7.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+************************************************************
+    2017-08-26 17:32:36    
+    -------------------
+Test1.txt is empty. It will not be tested for plagiarism.
+
+
+Plagiarism for files Test2.txt Test3.txt:
+Bag of words:    61.79965904315088
+String Matching: 1.6216216216216217
+Finger Printing: 22.60536398467433
+
+Plagiarism for files Test2.txt Test4.txt:
+Bag of words:    37.74199245641313
+String Matching: 1.8617021276595744
+Finger Printing: 9.848484848484848
+
+Plagiarism for files Test2.txt Test5.txt:
+Bag of words:    70.26948114515605
+String Matching: 1.5189873417721518
+Finger Printing: 21.014492753623188
+
+Plagiarism for files Test2.txt Test6.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test2.txt Test7.txt:
+Bag of words:    37.74199245641313
+String Matching: 1.8617021276595744
+Finger Printing: 9.848484848484848
+
+Plagiarism for files Test3.txt Test4.txt:
+Bag of words:    29.311918124761892
+String Matching: 2.6373626373626373
+Finger Printing: 16.207951070336392
+
+Plagiarism for files Test3.txt Test5.txt:
+Bag of words:    66.5628294864277
+String Matching: 1.1913626209977661
+Finger Printing: 20.335429769392032
+
+Plagiarism for files Test3.txt Test6.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test3.txt Test7.txt:
+Bag of words:    29.311918124761892
+String Matching: 2.6373626373626373
+Finger Printing: 16.207951070336392
+
+Plagiarism for files Test4.txt Test5.txt:
+Bag of words:    36.43914440515748
+String Matching: 2.6016260162601625
+Finger Printing: 11.415525114155251
+
+Plagiarism for files Test4.txt Test6.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test4.txt Test7.txt:
+Bag of words:    100.0
+String Matching: 100.0
+Finger Printing: 108.69565217391303
+
+Plagiarism for files Test5.txt Test6.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test5.txt Test7.txt:
+Bag of words:    36.43914440515748
+String Matching: 2.6016260162601625
+Finger Printing: 11.415525114155251
+
+Plagiarism for files Test6.txt Test7.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+************************************************************
+    2017-08-26 17:33:10    
+    -------------------
+Test1.txt is empty. It will not be tested for plagiarism.
+
+
+Plagiarism for files Test2.txt Test3.txt:
+Bag of words:    61.79965904315088
+String Matching: 1.6216216216216217
+Finger Printing: 22.60536398467433
+
+Plagiarism for files Test2.txt Test4.txt:
+Bag of words:    26.683291196387298
+String Matching: 1.9099590723055935
+Finger Printing: 10.15625
+
+Plagiarism for files Test2.txt Test5.txt:
+Bag of words:    70.26948114515605
+String Matching: 1.5189873417721518
+Finger Printing: 21.014492753623188
+
+Plagiarism for files Test2.txt Test6.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test2.txt Test7.txt:
+Bag of words:    26.683291196387298
+String Matching: 1.9099590723055935
+Finger Printing: 10.15625
+
+Plagiarism for files Test3.txt Test4.txt:
+Bag of words:    23.567668922534075
+String Matching: 2.6936026936026933
+Finger Printing: 15.360501567398119
+
+Plagiarism for files Test3.txt Test5.txt:
+Bag of words:    66.5628294864277
+String Matching: 1.1913626209977661
+Finger Printing: 20.335429769392032
+
+Plagiarism for files Test3.txt Test6.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test3.txt Test7.txt:
+Bag of words:    23.567668922534075
+String Matching: 2.6936026936026933
+Finger Printing: 15.360501567398119
+
+Plagiarism for files Test4.txt Test5.txt:
+Bag of words:    24.839756612732213
+String Matching: 3.3557046979865772
+Finger Printing: 11.374407582938389
+
+Plagiarism for files Test4.txt Test6.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test4.txt Test7.txt:
+Bag of words:    100.0
+String Matching: 100.0
+Finger Printing: 111.32075471698113
+
+Plagiarism for files Test5.txt Test6.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test5.txt Test7.txt:
+Bag of words:    24.839756612732213
+String Matching: 3.3557046979865772
+Finger Printing: 11.374407582938389
+
+Plagiarism for files Test6.txt Test7.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+************************************************************
+    2017-08-26 17:33:42    
+    -------------------
+Test1.txt is empty. It will not be tested for plagiarism.
+
+
+Plagiarism for files Test2.txt Test3.txt:
+Bag of words:    61.79965904315088
+String Matching: 1.6216216216216217
+Finger Printing: 22.60536398467433
+
+Plagiarism for files Test2.txt Test4.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test2.txt Test5.txt:
+Bag of words:    70.26948114515605
+String Matching: 1.5189873417721518
+Finger Printing: 21.014492753623188
+
+Plagiarism for files Test2.txt Test6.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test2.txt Test7.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test3.txt Test4.txt:
+Bag of words:    4.885319687460314
+String Matching: 0.4807692307692308
+Finger Printing: 0.0
+
+Plagiarism for files Test3.txt Test5.txt:
+Bag of words:    66.5628294864277
+String Matching: 1.1913626209977661
+Finger Printing: 20.335429769392032
+
+Plagiarism for files Test3.txt Test6.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test3.txt Test7.txt:
+Bag of words:    4.885319687460314
+String Matching: 0.4807692307692308
+Finger Printing: 0.0
+
+Plagiarism for files Test4.txt Test5.txt:
+Bag of words:    3.1686212526223896
+String Matching: 0.37243947858473
+Finger Printing: 0.0
+
+Plagiarism for files Test4.txt Test6.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test4.txt Test7.txt:
+Bag of words:    100.0
+String Matching: 100.0
+Finger Printing: 100.0
+
+Plagiarism for files Test5.txt Test6.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+
+Plagiarism for files Test5.txt Test7.txt:
+Bag of words:    3.1686212526223896
+String Matching: 0.37243947858473
+Finger Printing: 0.0
+
+Plagiarism for files Test6.txt Test7.txt:
+Bag of words:    0.0
+String Matching: 0.0
+Finger Printing: 0.0
+************************************************************
